@@ -1,1 +1,1 @@
-# AG-CGAN_Attention-Guided-Conditional-GAN
+## AG-CGAN: Attention Guided Conditional GAN
